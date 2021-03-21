@@ -1,0 +1,8 @@
+---
+- hosts: 192.168.33.11
+  remote_user: root
+  tasks:
+    - name: instalar apache
+      apt: name=apache2 state=latest
+    - name: iniciar apache2
+      service: name=apache2 status=started enabled=yes

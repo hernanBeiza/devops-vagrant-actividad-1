@@ -1,2 +1,2 @@
 # devops-vagrant-actividad-1
- Actividad 1 en Vagrant de Diplomado DevOps Usach
+ Actividad 1 de Vagrant en Diplomado Devops Usach
